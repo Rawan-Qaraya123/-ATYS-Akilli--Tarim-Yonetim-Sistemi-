@@ -1,4 +1,3 @@
-# -ATYS-Akilli--Tarim-Yonetim-Sistemi-
 # Akıllı Tarım Yönetim Sistemi (ATYS)
 - Bu depoda, modern teknolojilerin gücüyle tarımsal üretimi optimize etmeyi ve sürdürülebilir tarım uygulamalarını teşvik etmeyi amaçlayan "Akıllı Tarım Yönetim Sistemi" projemizi bulabilirsiniz.
 
